@@ -14,7 +14,12 @@ then select and right click the file and open with Python.
 Select the Source folder and the Destination folder.
 Select if you want it to be sorted by Date Modified and/or File type
     
-## Screenshots
+## Feedback
 
-![Screenshot of the GUI](https://imgur.com/a/MMHvY2v)
+If you have any feedback, please reach out to me!
+
+
+## Authors
+
+- [@mona-stery](https://github.com/Mona-stery)
 
